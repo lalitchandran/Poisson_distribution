@@ -1,6 +1,3 @@
-## Name: S LALIT CHANDRAN
-## Register no: 212223240077
-
 # Fitting Poisson  distribution
 # Aim : 
 
